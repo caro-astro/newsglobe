@@ -6,6 +6,8 @@ import geocoder
 from collections import Counter
 from spacy.attrs import ORTH, LIKE_URL, IS_OOV
 
+# code looks great!
+
 ################################################
 # Natural Language Toolkit: code_suffix_pos_tag
 #def pos_features(sentence, i): # [_suffix-pos-tag-fd]
